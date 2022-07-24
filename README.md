@@ -13,6 +13,7 @@ I've been learning to code for the last two years, after switching careers. I st
 * 🧠  I'm learning Node JS
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I like playing football and reading books.
+<br/>
 <a href="https://exequielmas-portfolio.netlify.app/">Visit my portfolio</a>
 ### Skills
 
