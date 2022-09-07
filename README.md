@@ -9,8 +9,8 @@ I've been learning to code for the last two years, after switching careers. I st
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🖥️  See my portfolio at [ExMasPortfolio](http://github.com/exequiel-mas)
 * ✉️  You can contact me at [exe.massimellli@gmail.com](mailto:exe.massimellli@gmail.com)
-* 🚀  I'm currently working on [React Projects](http://github.com/)
-* 🧠  I'm learning Node JS
+* 🚀  I'm currently working on [Full Stack Projects](http://github.com/)
+* 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I like playing football and reading books.
 
