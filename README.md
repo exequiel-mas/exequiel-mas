@@ -1,7 +1,7 @@
 Hi 👋 My name is Exequiel
 =========================
 
-Front End Developer and Web Designer
+Front End Developer + Backend Background
 ------------------------------------
 
 I've been learning to code for the last two years, after switching careers. I started with HTML, CSS, Javascript and some styling libraries. After that i have been learning Modern Javascript and React JS. Actually, I have found a passion for FrontEnd development.
