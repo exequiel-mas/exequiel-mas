@@ -9,8 +9,8 @@ Welcome to my repository, I hope you see something you like!
 * 🌍  I'm based in Buenos Aires, Argentina
 * 🖥️  See my portfolio at [ExMasPortfolio](http://github.com/exequiel-mas)
 * ✉️  You can contact me at [exe.massimellli@gmail.com](mailto:exe.massimellli@gmail.com)
-* 🚀  I'm currently working on an amazing fullstack project!
-* 🧠  I'm learning Cloud Computing
+* 🚀  I'm currently working on a complex fullstack project!
+* 🧠  I am currently taking my Java skills to another level
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I like playing football and reading books.
 
